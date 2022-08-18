@@ -5,3 +5,9 @@ Jenis Kelamis: Laki-Laki
 Tempat & Tanggal Lahir: Tasikmalaya, 24 Oktober 1995
 Hobi: Membaca, Coding, Menonton Film, Berkemdara, Diskusi
 Cita-cita: Guru, Penulis, Programmer
+Riwayat Pendidikan:
+TK Puri Madani
+SD Negeri Cilolohan 1 Tasikmalaya
+MTs Persis 31 Banjaran
+MA Persis 31 Banjaran
+UIN Sunan Gunung Djati Bandung Teknik Informatika
